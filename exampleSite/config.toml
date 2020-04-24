@@ -2,7 +2,7 @@ baseURL = ""
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "upwork - test "
+title = "Search icon"
 [[menu.main]]
 URL = "about"
 name = "About"
